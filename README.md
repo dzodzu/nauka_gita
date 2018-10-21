@@ -22,5 +22,10 @@
 1. Still
 >And Still
 
-##Teraz numer piec
+## Teraz numer piec
 >Commituje
+
+## Oraz szesc
+### I jeszcze raz
+>Commit
+  >Commit
