@@ -31,8 +31,6 @@
 
   >Commit
 
-## I cyk siedem
+## I cyk siedem/osiem
 
->W koncu Cie dorwe Pepe Panie Dziobaku
-
-![Pepe](http://pl.fiffan.wikia.com/wiki/Pepe_Pan_Dziobak_Junior?file=PPDJ(DP.png)
+![A niech Cie Pepe Panie Dziobaku!!!](https://vignette.wikia.nocookie.net/fiffan/images/4/4f/Heinz_Dundersztyc.png/revision/latest?cb=20160704141550&path-prefix=pl)
