@@ -34,3 +34,5 @@
 ## I cyk siedem/osiem
 
 ![A niech Cie Pepe Panie Dziobaku!!!](https://vignette.wikia.nocookie.net/fiffan/images/4/4f/Heinz_Dundersztyc.png/revision/latest?cb=20160704141550&path-prefix=pl)
+
+## Zmiany do sciagniecia
