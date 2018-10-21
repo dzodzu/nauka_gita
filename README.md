@@ -28,4 +28,11 @@
 ## Oraz szesc
 ### I jeszcze raz
 >Commit
+
   >Commit
+
+## I cyk siedem
+
+>W koncu Cie dorwe Pepe Panie Dziobaku
+
+![Pepe](http://pl.fiffan.wikia.com/wiki/Pepe_Pan_Dziobak_Junior?file=PPDJ(DP.png)
